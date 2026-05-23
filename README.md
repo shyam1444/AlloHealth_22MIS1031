@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Allo Multi-Warehouse Inventory & Stock Reservation System
 
 An end-to-end, high-performance, and race-condition-free inventory allocation and checkout-reservation platform built using **Next.js (App Router)**, **Prisma**, **TypeScript**, **PostgreSQL**, and **Framer Motion**.
